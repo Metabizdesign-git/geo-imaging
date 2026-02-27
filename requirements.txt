@@ -1,0 +1,14 @@
+# Core
+gempy>=2025.2.0
+gempy-engine>=2025.2.0
+numpy>=2.4.2
+pydantic>=2.12.5
+
+# Visualization (scripts/)
+matplotlib>=3.10.8
+pyvista>=0.47.1
+gempy-viewer>=2025.1.6
+
+# Dev / Testing
+pytest>=9.0.2
+pytest-cov>=7.0.0
